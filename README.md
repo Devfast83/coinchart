@@ -17,7 +17,7 @@ A cryptocurrency price chart based off [https://www.coinbase.com/charts](https:/
 
 ``` bash
 git clone https://github.com/Devfast83/coinchart.git
-cd ./coincharts
+cd ./coinchart
 npm install
 ```
 
